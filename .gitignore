@@ -25,3 +25,4 @@ scripts/widget_visualization/output/test_project/
 
 # PyAV exploration temp files
 scripts/pyav_exploration/tmp/
+uv.lock
